@@ -4,4 +4,4 @@ while count > 0 do
 	count -= 1
 end
 
-Puts “Happy New Year!”
+puts “Happy New Year!”
